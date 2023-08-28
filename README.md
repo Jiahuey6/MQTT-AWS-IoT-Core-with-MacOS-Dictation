@@ -37,7 +37,7 @@ cert_file = " " - file ending in crt
 key_file = " " - private key file
 ```
 4. Ready to launch. Open your Iot Core service and Click on "MQTT test client" on the left panel. On the "Subscribe to a topic", fill in the topic you have named from creating a "Things" matching **topic= "Your Topic"** and click on **Subscribe**
-5. On your Mac, open a terminal and point to the folder containing the python script (example: % cd Desktop/Python)
+5. On your Mac, open a terminal and point to the folder containing the python script example: `% cd Desktop/Python`
 6. Execute the script with 
 ```
 python3 speak.py
